@@ -4,7 +4,7 @@ End Code
 
 <div class="jumbotron">
     <h1>ASP.NET</h1>
-    <p class="lead">Pagina de Prueba con git y gitHub.</p>
+    <p class="lead">Pagina de Prueba con git y Git-Hub.</p>
  <br />
     <hr />
    
