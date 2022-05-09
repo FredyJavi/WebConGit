@@ -10,6 +10,6 @@ End Code
 
 <div class="row">
     <div class="col-md-4">
-        <h2>Trabajando con Git</h2>
+        <h2>Trabajando con GitHub</h2>
        
 </div>
